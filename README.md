@@ -5,6 +5,11 @@
 - 👨‍💻 All of my projects are available at: [https://prajaktadargade.github.io/Portfolio/]
 - 📄 Know about my experiences:
 
+## 🚀 Tech Stack:
+- 🌐 Frontend: React, HTML, CSS, Bootstrap, Tailwind
+- 🛠 Backend: Node.js,PHP
+- 🗃️ Database: MySQL,MongoDB
+
 <!--
 **PrajaktaDargade/PrajaktaDargade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
