@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Prajakta Dargade , a Full Web Stack Developer!
 
-## I’m currently working on: React.js Project
-## 🌱 I’m learning: Software development
-## 💬 Ask me about:MySQL,Node.js,PHP,React.js
-## 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prajakta-dargade-71b146241/)
+- I’m currently working on: React.js Project
+- 🌱 I’m learning: Software development
+- 💬 Ask me about:MySQL,Node.js,PHP,React.js
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prajakta-dargade-71b146241/)
 
 
 
