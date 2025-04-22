@@ -1,3 +1,10 @@
+## Hi there 👋, I'm Prajakta Dargade , Full-stack Web developer!
+- 🌱 I’m learning: Software development.
+- 💬 Ask me about: PHP, MongoDB, Node.js, React
+- 📫 How to reach me:[Linkedin][https://www.linkedin.com/in/prajakta-dargade-71b146241/]
+- 👨‍💻 All of my projects are available at: [https://prajaktadargade.github.io/Portfolio/]
+- 📄 Know about my experiences:
+
 <!--
 **PrajaktaDargade/PrajaktaDargade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
