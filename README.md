@@ -1,9 +1,8 @@
 ## Hi there 👋, I'm Prajakta Dargade , Full-stack Web developer!
 - 🌱 I’m learning: Software development.
-- 💬 Ask me about: PHP, MongoDB, Node.js, React
+- 💬 Ask me about: PHP, MongoDB, Node.js, React,MySQl
 - 📫 How to reach me:[Linkedin] [https://www.linkedin.com/in/prajakta-dargade-71b146241/]
 - 👨‍💻 All of my projects are available at: [https://prajaktadargade.github.io/Portfolio/]
-- 📄 Know about my experiences:
 
 ## 🚀 Tech Stack:
 - 🌐 Frontend: React, HTML, CSS, Bootstrap, Tailwind
